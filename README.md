@@ -14,6 +14,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GeorxGi&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D)
 ## ACKNOWLEDGEMENTS ℹ️
