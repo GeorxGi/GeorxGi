@@ -2,8 +2,8 @@
 
 * My name is Georges.
 * From Anzoátegui - Venezuela.
-* System Engineer student from Universidad Santa Maria (currently on 7th semester).
-* Currently learning Flutter and Java.
+* System Engineer student from Universidad Santa Maria (currently on 8th semester).
+* Spanish - English
 
 ## CONTACT ✉️
 [![Gmail Badges](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:georgechakour2004@gmail.com)
