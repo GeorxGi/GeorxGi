@@ -7,7 +7,7 @@
 
 ## CONTACT ✉️
 [![Gmail Badges](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:georgechakour2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/georges-chakour-355628336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-chakour-tabban-355628336/)
 [![Twitter X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white
 )](https://x.com/GeorxGi)
 
