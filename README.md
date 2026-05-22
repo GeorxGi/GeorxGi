@@ -3,7 +3,7 @@
 * My name is Georges.
 * From Anzoátegui - Venezuela.
 * System Engineer student from Universidad Santa Maria (currently on 9th semester).
-* Spanish - English
+* Known languages: Spanish - English
 
 ## CONTACT ✉️
 [![Gmail Badges](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:georgechakour2004@gmail.com)
@@ -11,17 +11,25 @@
 [![Twitter X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white
 )](https://x.com/GeorxGi)
 
-## TECH STACK 🖥️
+# TECH STACK 🖥️
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![C#](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
-## MISC TECH STACK
-* Linux/Ubuntu knowledge
-* MQTT protocol
-* HTTP protocol
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### DBMS
+
+* MySQL
+* ObjectBox
+
+## MISC TECH STACK 🖱️
+* HTTP and MQTT protocol knowledge.
+* Protobuf and JSON knowledget
 * Provider pattern
 
 
